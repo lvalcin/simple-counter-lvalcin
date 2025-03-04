@@ -8,7 +8,7 @@ import SecondsCounter from "./SecondsCounter";
 const Home = () => {
 	return (
 		<div className="text-center">
-            Hom component
+            Home component
 			<SecondsCounter />
 
 		</div>
